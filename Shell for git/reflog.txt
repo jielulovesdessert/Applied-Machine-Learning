@@ -1,0 +1,16 @@
+8cd7bb7 HEAD@{0}: commit: 9th
+a7b087a HEAD@{1}: checkout: moving from master to debug
+22fc32b HEAD@{2}: rebase finished: returning to refs/heads/master
+22fc32b HEAD@{3}: rebase: 5th
+5a3c577 HEAD@{4}: rebase: 4th
+17b609c HEAD@{5}: rebase: checkout feature
+24d8c8d HEAD@{6}: checkout: moving from feature to master
+17b609c HEAD@{7}: commit: 8th
+af2bec0 HEAD@{8}: commit: 7th
+ddf221b HEAD@{9}: commit: 6th
+2d877ea HEAD@{10}: checkout: moving from master to feature
+24d8c8d HEAD@{11}: commit: 5th
+a28f1df HEAD@{12}: commit: 4th
+a7b087a HEAD@{13}: commit: 3rd
+9170f82 HEAD@{14}: commit: 2nd
+2d877ea HEAD@{15}: commit (initial): 1st
